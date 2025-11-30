@@ -1,3 +1,4 @@
+// GEO Optimized: None
 import { Leaf } from "lucide-react";
 
 export function Footer() {
