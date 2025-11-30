@@ -1,3 +1,4 @@
+// GEO Optimized: None
 import { Link } from "wouter";
 import { Leaf, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
