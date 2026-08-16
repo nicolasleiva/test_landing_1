@@ -1,3 +1,4 @@
+// GEO Optimized: schema
 "use client"
 
 import * as React from "react"
