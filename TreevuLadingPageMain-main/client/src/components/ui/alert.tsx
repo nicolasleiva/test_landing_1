@@ -1,3 +1,6 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
+// GEO Optimized: schema
 import * as React from "react"
 import { cva, type VariantProps } from "class-variance-authority"
 

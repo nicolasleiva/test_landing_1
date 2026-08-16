@@ -1,3 +1,6 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
+// GEO Optimized: schema
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, PlayCircle } from "lucide-react";

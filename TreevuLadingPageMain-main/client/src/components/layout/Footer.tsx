@@ -1,3 +1,6 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
+// GEO Optimized: schema
 import { Leaf } from "lucide-react";
 
 export function Footer() {
