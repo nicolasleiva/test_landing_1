@@ -1,3 +1,5 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
 import { Link } from "wouter";
 import { Leaf, Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
