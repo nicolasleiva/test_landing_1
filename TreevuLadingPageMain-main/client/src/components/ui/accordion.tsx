@@ -1,3 +1,5 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
 import * as React from "react"
 import * as AccordionPrimitive from "@radix-ui/react-accordion"
 import { ChevronDown } from "lucide-react"
