@@ -1,3 +1,4 @@
+// GEO Optimized: schema
 import { Leaf } from "lucide-react";
 
 export function Footer() {
