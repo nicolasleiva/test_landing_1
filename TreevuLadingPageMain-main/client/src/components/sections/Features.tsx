@@ -1,3 +1,4 @@
+// GEO Optimized: schema
 import { 
   LayoutDashboard, 
   Smartphone, 
