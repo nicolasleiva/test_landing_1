@@ -1,3 +1,5 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
 import { 
   LayoutDashboard, 
   Smartphone, 

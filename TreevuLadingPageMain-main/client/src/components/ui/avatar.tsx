@@ -1,3 +1,5 @@
+// GEO Optimized: add_faq_section
+// GEO Optimized: add_author_metadata
 "use client"
 
 import * as React from "react"
